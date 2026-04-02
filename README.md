@@ -16,7 +16,7 @@ This project uses machine learning to predict whether a loan should be approved 
 
 ## How to Run
 1. Clone the repo
-git clone https://github.com/rudra-006-alt/loan-predictor-model.git
+git clone https://github.com/rudra-006-alt/loan-predictor-ml-model.git
 
 2. Install requirements
 pip install -r requirements.txt
